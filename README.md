@@ -1,1 +1,1 @@
-# Driving-Distance-between-cities-calculator
+The goal is to develop a tool that calculates the driving distance between two cities or locations. The following process is how I achieved my goals in creating the project. Data Acquisition, Distance Calculation Algorithm, Web Interface, and Routing API Integration. The end result is a project that exercises a wide range from HTML, CSS, JQuery and Google maps to complete and finish this product.
